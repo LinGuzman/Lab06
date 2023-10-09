@@ -10,10 +10,12 @@
 </head>
 <body>
     <nav class="navbar navbar-dark bg-dark">
+       <section>
         <div class = "container-fluid">
             <span class="navbar-brand mb-0 h1">
             <img src="https://static.vecteezy.com/system/resources/previews/002/503/681/non_2x/school-supplies-stationery-vector.jpg" width="33" height="33" alt="">
             LIBRERIAS FELÍ</span>
         </div>
+        </section>
     </nav>
     

@@ -1,13 +1,15 @@
-
 <!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CSS 3D Rotating Image Gallery</title>
+    <title>Libreria FELI</title>
     <link rel="stylesheet" href="css/estilos.css">
+    <link href="css/styles.css"rel="stylesheet">
 </head>
+
 <body>
+
     <div class="box">
         <span style="--i:1;"><img src="img/image1.jpg" alt=""></span>
         <span style="--i:2;"><img src="img/image2.jpg" alt=""></span>
@@ -18,6 +20,12 @@
         <span style="--i:7;"><img src="img/image7.jpg" alt=""></span>
         <span style="--i:8;"><img src="img/image8.jpg" alt=""></span>
     </div>
+
+
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  
 </body>
 </html>
 
@@ -92,8 +100,7 @@
             <?php 
                 }
             ?> 
-
-            <!-- fin alerta -->
+            <section>
             <div class="card">
                 <div class="card-header">
                     Lista de productos
@@ -137,7 +144,9 @@
                     
                 </div>
             </div>
+            
         </div>
+        </section>
         <div class="col-md-4">
             <div class="card">
                 <div class="card-header">
